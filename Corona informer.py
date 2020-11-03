@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
 
 print("Hi welcome to Corona Informer")
 print("Choose the following option to run that ")
@@ -320,13 +315,6 @@ else:
         
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
